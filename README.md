@@ -20,7 +20,7 @@
 - [💻 Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
     - [Setup](#setup)
-    - [Creating a database](#create-a-database)
+    - [Creating a database](#creating-a-database)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)

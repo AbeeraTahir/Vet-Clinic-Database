@@ -48,8 +48,8 @@
 
 ### Key Features <a name="key-features"></a>
 
-- **Create vet_clinic database**
-- **Create animals table and insert values into it**
+- **Create vet_clinic database to store animals information**
+- **Create animals table and insert data into it**
 - **Query animals table**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -124,9 +124,8 @@ vet_clinic=#
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- Add _**join table**_ for visits.
-- Database performance audit.
-- Add database schema diagram.
+- Add more data into the database
+- Perform more queries
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

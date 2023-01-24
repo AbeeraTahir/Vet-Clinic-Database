@@ -17,6 +17,7 @@
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
+- [🚀 Schema Diagram ](#schema-diagram)
 - [💻 Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
     - [Setup](#setup)
@@ -51,6 +52,12 @@
 - **Create vet_clinic database to store animals information**
 - **Create animals table and insert data into it**
 - **Query animals table**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🚀 Database Schema Diagram <a name="schema-diagram"></a>
+
+<img src="database_schema_diagram.png" alt="schema diagram">
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

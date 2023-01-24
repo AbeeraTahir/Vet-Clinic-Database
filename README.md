@@ -102,6 +102,7 @@ postgres=# \c vet_clininc
 You are now connected to database "vet_clinic" as user "postgres".
 vet_clinic=#
 ```
+
 - Use [schema.sql](./schema.sql) to create all tables.
 - Use [data.sql](./data.sql) to populate tables with sample data.
 - Check [queries.sql](./queries.sql) for examples of queries that can be run on a newly created database. **Important note: this file might include queries that make changes in the database (e.g., remove records). Use them responsibly!**
@@ -110,13 +111,19 @@ vet_clinic=#
 
 <!-- AUTHORS -->
 
-## 👥 Author <a name="authors"></a>
+## 👥 Authors <a name="authors"></a>
 
 👤 **Abeera Tahir**
 
 - GitHub: [@AbeeraTahir](https://github.com/AbeeraTahir)
-- Twitter: [@AbeeraTahir8]( https://twitter.com/AbeeraTahir8?t=z5CjMpmHMZmS98i09gUpYA&s=08)
+- Twitter: [@AbeeraTahir8](https://twitter.com/AbeeraTahir8?t=z5CjMpmHMZmS98i09gUpYA&s=08)
 - LinkedIn: [Abeera Tahir](https://www.linkedin.com/in/abeera-tahir/)
+
+👤 **Zia Bakhteyari**
+
+- GitHub: [@zia123456](https://github.com/Zia123456)
+- Twitter: [@zia_bakhteyari](https://twitter.com/Zia_Bakhteyari)
+- LinkedIn: [Zia bakhteyari](https://www.linkedin.com/in/zia-bakhteyari)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

@@ -39,3 +39,14 @@ CREATE TABLE treatment_history (
 	treatment_id INT REFERENCES treatments(id)
 );
 
+We need a separate table to handle the many-to-many relationship between medical_histories and treatments.
+CREATE TABLE treatment_history (
+	medical_history_id INT REFERENCES medical_histories(id),
+	treatment_id INT REFERENCES treatments(id)
+);
+CREATE INDEX ON invoices (medical_history_id);
+CREATE INDEX ON medical_histories (patient_id);
+CREATE INDEX ON invoice_items (invoice_id);
+CREATE INDEX ON invoice_items (treatment_id);
+CREATE INDEX ON treatment_history (medical_history_id);
+CREATE INDEX ON treatment_history (treatment_id);
